@@ -1,0 +1,18 @@
+<html>
+ <header>
+  <title>Simon Weppe</title>
+	<h1>Simon Weppe</h1>
+  <p> I'm going to show you how to make the most amazing website!</p>
+  </header>
+    <body>
+	<h2>Work Experience</h2>
+	  <h3>Digital Project Manager | Online Solutions | 2016.06-present</h3>
+        <p>50% at Online Solutions, 50% at Art Fund</p>
+	  <h3>Project Manager | BT | 2015.06 - 2016.05</h3>
+	 <h2>Loisirs</h2>
+	  <ul>Technology</ul>
+	  <ul>gaming</ul> 	
+	 <h2>Sports</h2>
+	  <p>Cycling, Free-diving, table tennis, tennis<p>
+	</body>
+</html>
